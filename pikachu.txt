@@ -1,1 +1,1 @@
-moves: Flamethrower, Thunderbolt, Roundhouse
+moves: Flamethrower, Thunderbolt, Roundhouse, Slap, Kick
